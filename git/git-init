@@ -11,4 +11,8 @@ $ git diff <file>
 $ git reset --hard HEAD^/$ git reset --hard <hashno>
 回退到上一个版本/某一个版本
 
-$ git reflog 用来记录你每一次命令
+$ git reflog
+用来记录你每一次命令
+
+$ git log
+查看提交历史
