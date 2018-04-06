@@ -1,0 +1,7 @@
+$ git init 
+命令把这个目录变成Git可以管理的仓库
+$ git add <file>
+$ git commit -m "readme"
+$ git status
+
+
