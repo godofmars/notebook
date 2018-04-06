@@ -26,8 +26,12 @@ git diff HEAD -- readme.txt
 命令可以查看工作区和版本库里面最新版本的区别
 
 git checkout -- file
-可以丢弃工作区的修改
+可以丢弃工作区的修改/恢复版本库中还有但是工作区误删除的文件
 
 git checkout branch
 切换到另一个分支
+
+git rm file+git commit
+删除文件
+
 
