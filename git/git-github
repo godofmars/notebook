@@ -1,0 +1,4 @@
+$ ssh-keygen -t rsa -C "youremail@example.com"
+创建SSH Key
+
+git remote add origin git@github.com:godofmars/notebook.git
