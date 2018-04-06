@@ -16,3 +16,8 @@ $ git reflog
 
 $ git log
 查看提交历史
+
+git有暂存区的概念 git add后将修改加入暂存区 git commit后将暂存区的修改提交到版本裤Repository, git 管理的是修改而不是文件（重要），可以参考：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374829472990293f16b45df14f35b94b3e8a026220c5000
+ 
+git diff HEAD -- readme.txt
+命令可以查看工作区和版本库里面最新版本的区别
