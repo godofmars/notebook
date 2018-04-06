@@ -3,5 +3,9 @@ $ git init
 $ git add <file>
 $ git commit -m "readme"
 $ git status
+$ git diff <file>
+比较查看file的修改
+
+
 
 
