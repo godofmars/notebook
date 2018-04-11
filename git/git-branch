@@ -12,3 +12,5 @@ $ git merge <name>
 merge the name branch to current branch
 $ git branch -d <name>
 del the name branch
+$ git log --graph
+show the log by graph
