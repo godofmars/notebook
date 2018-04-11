@@ -14,3 +14,5 @@ $ git branch -d <name>
 del the name branch
 $ git log --graph
 show the log by graph
+$ git merge --no-ff -m "merge with no-ff" name
+merge name branch without FAST FORWARD(create a new commit when merge)
