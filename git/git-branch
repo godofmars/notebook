@@ -1,2 +1,14 @@
 $ git branch -a
 $ git remote -v
+$ git branch
+search the branch
+$ git branch <name>
+create the branch name
+$ git checkout <name>
+switch the branch name
+$ git checkout -b <name>
+create and switch that branch name
+$ git merge <name>
+merge the name branch to current branch
+$ git branch -d <name>
+del the name branch
