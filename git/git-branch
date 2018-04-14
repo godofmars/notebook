@@ -16,3 +16,7 @@ $ git log --graph
 show the log by graph
 $ git merge --no-ff -m "merge with no-ff" name
 merge name branch without FAST FORWARD(create a new commit when merge)
+$ git pull 
+更新本地代码（在没有更改过的情况下 只是更新本地代码内容）
+$ git remote update
+更新本地远程分支列表
